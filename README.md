@@ -19,7 +19,8 @@ $authHeader = @{
 } 
 ```
 
-4.	Run the desired ps scripts as documented in the repo
+4.	Run the desired ps scripts as documented in the repo.
+
 Examples: 
 ```
 Get-AzSentinelAlertRule -SubscriptionId {subscriptionId} -WorkspaceName {workspaceName}
