@@ -1,4 +1,4 @@
-# Importing/Exporting Azure Sentinel Analytics Alerts
+# Importing/Exporting Azure Sentinel Analytics Alert Rules
 
 1.	Install the [AzSentinel](https://github.com/wortell/AZSentinel) module as per the repo instructions.
 
