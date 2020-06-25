@@ -1,0 +1,1 @@
+# azsentinel-analytics-alerts
