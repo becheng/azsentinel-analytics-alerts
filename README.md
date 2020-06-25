@@ -3,7 +3,9 @@
 1.	Install the [AzSentinel](https://github.com/wortell/AZSentinel) module as per the repo instructions.
 
 2.	Sign in the Azure subscription with contains the Sentinel workspace that you want to export/import the Analytics Alert Rules.
-```Connect-AzAccount -Tenant {tenantId} -Subscription {subscriptionId}```
+```
+Connect-AzAccount -Tenant {tenantId} -Subscription {subscriptionId}
+```
 
 3.	Set the follow variables since the ps scripts require a valid auth token.
 ```
